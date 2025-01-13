@@ -1,0 +1,1 @@
+This project is a simple Java based Spreadsheet application that allows users to input numbers text or formulas into cells calculate results for formulas and display the final spreadsheet as a text based table in the console
